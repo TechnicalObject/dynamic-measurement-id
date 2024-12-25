@@ -16,8 +16,12 @@ homepage: "https://github.com/TechnicalObject/set-cookie-caspone"
 documentation: "https://github.com/TechnicalObject/set-cookie-caspone/README.md"
 versions:
   # Latest version
+  - sha: cd2718572d3c2d7db1b084ad86ff82316d216f04
+    changeNotes: |2
+      - Added logo
+      - Changed default max-age to 1 year
+  # Older versions
   - sha: 80e8f1b999a90928c06fa16da46e4d2bd4818673
     changeNotes: Prepare for release
-  # Older versions
   - sha: d98ade34cbec0080660eaee6b613fa1d93155480
     changeNotes: Initial Version
