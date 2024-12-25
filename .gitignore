@@ -1,0 +1,7 @@
+*
+!.gitignore
+!CONTRIBUTING.md
+!LICENSE
+!metadata.yaml
+!README.md
+!template.tpl
