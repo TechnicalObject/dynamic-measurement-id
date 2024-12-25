@@ -19,6 +19,7 @@ ___INFO___
     "displayName": ""
   },
   "description": "by Luboš Komjati",
+  "categories": ["UTILITY"],
   "containerContexts": [
     "WEB"
   ]

@@ -1,5 +1,9 @@
-# example-community-template
+# Set cookie template by Luboš Komjati
 
-The example-community-template project is an example of a Google Tag Manager [Community Template Gallery template repository](https://support.google.com/tagmanager/answer/9454109) repository that can be used as a template to generate new community template repositories.
+It is possible to select from Internal and Custom cookie type
 
-To submit your own template, see the [detailed instructions on how to submit templates to the Community Template Gallery](https://developers.google.com/tag-manager/templates/gallery).
+## Internal traffic cookie
+Allows you to set a first party cookie with name gtm_internal_user and value internal. The max-age is set to 1 year by default.
+
+## Custom cookie
+Allows you to set a first party cookie with custom name and value. There is also a possibility to define max-age by checking Specify Max Age checkbox and typing down days required.

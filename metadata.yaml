@@ -15,5 +15,6 @@
 homepage: "https://github.com/TechnicalObject/set-cookie-caspone"
 documentation: "https://github.com/TechnicalObject/set-cookie-caspone/README.md"
 versions:
-  - sha: 5f02a788b90ae804f86b04aa24af8937e567874a
+  # Older versions
+  - sha: d98ade34cbec0080660eaee6b613fa1d93155480
     changeNotes: Initial Version
