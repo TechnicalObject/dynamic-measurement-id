@@ -1,4 +1,4 @@
-# Copyright 2024 Lubos Komjati
+# Copyright 2025 Luboš Komjati
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -13,14 +13,8 @@
 # limitations under the License.
 
 homepage: "https://github.com/TechnicalObject/dynamic-measurement-id"
+documentation: "https://github.com/TechnicalObject/dynamic-measurement-id#readme"
 versions:
   # Latest version
-  - sha: cd2718572d3c2d7db1b084ad86ff82316d216f04
-    changeNotes: |2
-      - Added logo
-      - Changed default max-age to 1 year
-  # Older versions
-  - sha: 80e8f1b999a90928c06fa16da46e4d2bd4818673
-    changeNotes: Prepare for release
-  - sha: d98ade34cbec0080660eaee6b613fa1d93155480
-    changeNotes: Initial Version
+  - sha: b679e59d28311499a220e07a82ee53c90b22f908
+    changeNotes: Initial release.
